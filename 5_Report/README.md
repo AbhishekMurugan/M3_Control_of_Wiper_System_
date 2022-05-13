@@ -16,7 +16,8 @@ The STM32F407 Kit makes it simple for users to construct audio-based application
 * USB ST-LINK with three different interfaces and the option to re-enumerate.
 * Debug port for virtual com port (with new order code only)
 * Large-scale archiving (with new order code only)
-* Board power is supplied through USB or an external 5 V supply source. * External application power supply is available in 3 V and 5 V.
+* Board power is supplied through USB or an external 5 V supply source. 
+* External application power supply is available in 3 V and 5 V.
  # USES
   * This microcontroller is used in printers and scanners, as well as heating, ventilation, and air conditioning and security systems.
   *  This module can be found in a wide range of everyday items.
