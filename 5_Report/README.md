@@ -1,6 +1,6 @@
 
 # ABSTARCT
-A wiper is a vital component that removes rainfall or any other liquid from the windscreen of a vehicle. Previously, the wipers had to be manually activated by changing the frequency.
+A wiper is a vital component that removes rainfall or any other liquid from the windscreen of a vehicle. Previously, the wipers had to be manually activated by changing the frequency.The aim is to design and develop a control system based on an electronically controlled automotive rain operated motor called AUTOMATIC RAIN OPERATED WIPER. Rain operated motor consists of a conduction sensor (Touch sensor) circuit, Control Unit, wiper motor and glass frame. The sensor is used to detect the rain or water flow. If there is any rain on the glass, the sensor senses the rain or flow water and giving the control signal to the wiper motor. The battery supplies the power to the sensor as well as rain operated motor. Wiper motor is automatically ON during the time of rainfall. The senor is fixed in the vehicle glass. The conductive (Touch) sensor is used in this project. It senses the rainfall and giving control signal to the control unit. The control unit activates the wiper motor automatically. This operation is called Automatic rain operated wiper..
 # INTRODUCTION
  
 # SOFTWARE REQUIREMENTS
